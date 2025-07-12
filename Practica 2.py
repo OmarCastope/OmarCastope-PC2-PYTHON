@@ -230,4 +230,4 @@ def convertir_fecha(fecha):
 
 entrada = input("Ingrese una fecha (MM/DD/AAAA o 'Mes D, AAAA'): ")
 salida = convertir_fecha(entrada)
-print(f"Fecha en formato AAAA-MM-DD: {salid
+print(f"Fecha en formato AAAA-MM-DD: {salida}")
